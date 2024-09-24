@@ -1,1 +1,5 @@
+file<<<<<<< HEAD
 a1 file
+=======
+a1 is modified
+>>>>>>> a918717c54de1ce8451cc1711aed1257caac30fe
