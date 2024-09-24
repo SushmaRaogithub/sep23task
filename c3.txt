@@ -1,1 +1,5 @@
+merge<<<<<<< HEAD
 c3 file
+=======
+c3 is added
+>>>>>>> second

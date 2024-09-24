@@ -1,1 +1,5 @@
+modified<<<<<<< HEAD
 c1 file
+=======
+c1 is added 
+>>>>>>> second
